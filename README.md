@@ -23,30 +23,33 @@ Compliance involves education, scope, prevention, detection, collaboration, and 
 2. External Compliance: Adheres to external standards and regulations.
 3. Specialized tools are used for continuous monitoring, reporting, and auditing.
 
-4. *Hierarchy*
-**Laws > Policies > Standards**
+*Hierarchy*
+* Laws > Policies > Standards
 
 ### Module 2: Best Practices for IT Compliance
-*Framework Big Picture:* Understand what needs protection and the auditor's perspective.
-
-*Compliance Maturity Spectrum:* Ranges from minimal to strategic compliance levels.
+*Framework*
+1. Big Picture: Understand what needs protection and the auditor's perspective.
+2. Compliance Maturity Spectrum: Ranges from minimal to strategic compliance levels.
 
 *Policy Design:*
-Policies define the 'who' and 'what.'
-Procedures and standards define the 'how.'
+1. Policies define the 'who' and 'what.'
+2. Procedures and standards define the 'how.'
 
 *Benefits of a Centralized IT Policy Compliance Program:*
-*Real-time Insight and Reporting:* Provides enterprise-wide visibility into the organization's cybersecurity posture.
+1. Real-time Insight and Reporting: Provides enterprise-wide visibility into the organization's cybersecurity posture.
 
 1. Precise Mapping: Covers all aspects of the program through interconnected mapping.
 
 2. Streamlined Automation: Centralizes view of program activity and assigns tasks efficiently.
 
-3. Pre-audit and Readiness: Conduct pre-audit assessments to identify and fix issues before formal audits.
+*Pre-audit and Readiness:*
+Conduct pre-audit assessments to identify and fix issues before formal audits.
 
-4. Remediation: Prioritize remediation activities based on business-critical risks and exposures.
 
-5. Automation: Use automation to improve coverage, precision, and cost-effectiveness in IT policy compliance.
+*Remediation:*
+Prioritize remediation activities based on business-critical risks and exposures.
+
+*Automation:* Use automation to improve coverage, precision, and cost-effectiveness in IT policy compliance.
 
 ## Laws, Policies, and Standards
 ### Major Frameworks and Regulations
