@@ -67,37 +67,36 @@ CCPA: Privacy rights for California residents.
 SOX: Financial record maintenance for U.S. public companies.
 
 ## Summary and Final Understanding
-**Importance of IT in Policy Compliance**
+🌟**Importance of IT in Policy Compliance**
 
 IT is crucial for modern business operations and compliance.
 IT compliance involves implementing and managing IT according to accepted standards.
 
-**Relevant Laws and Regulations**
+🌟**Relevant Laws and Regulations**
 
 Determine which laws and regulations apply to your company. 
 Examples include SOX, GLBA, HIPAA, etc.
 
-**Controls**
+🌟**Controls**
 
 Technical and process-oriented means to comply with policies. Auditors rely on these controls for IT policy compliance.
 
-**Aligning Compliance with Business**
+🌟**Aligning Compliance with Business**
 
 Understand your organization’s culture and design controls accordingly.
 
-**Accountability**
+🌟**Accountability**
 
 Define roles and responsibilities clearly within the IT department. Data/system owners and custodians play key roles.
 
-**Remediation**
+🌟**Remediation**
 
 Plan and execute remediation activities logically and defensibly.
 
-**Automation**
+🌟**Automation**
 
 Automation is essential for regular evaluation of systems. Solutions like CSAM or Policy Compliance can enhance coverage and precision.
 
-**Monitoring**
+🌟**Monitoring**
 
 Regularly check the effectiveness of your IT policy compliance program.
-
